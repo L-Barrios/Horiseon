@@ -1,3 +1,4 @@
 # Horiseon
-Title was changed to be related to the website. 
-HTML elements were changed to have more semantic tags than just having div.
+>The Title was change to relate to the website. <br>
+>HTML elements were changed to have more semantic tags than just having div.
+>Comments were added to identify what is going on.
