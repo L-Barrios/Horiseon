@@ -12,6 +12,6 @@ CSS was modified to reduce repetivness.
 
 ```
 
-![Screen Shot](/desktop/screenshot.png) 
+![Screen Shot](/desktop/Screenshot.png) 
 
 
