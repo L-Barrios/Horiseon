@@ -10,5 +10,6 @@
 
 * CSS was modified to reduce repetivness.
 
-![Picture of the website](Websiteimage.jpg) 
+![Website Image](.desktop/Websiteimage.png) 
+
 
