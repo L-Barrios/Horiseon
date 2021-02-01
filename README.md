@@ -1,6 +1,5 @@
 # Horiseon
 https://l-barrios.github.io/Horiseon/
-![Horiseon GitHub](https://l-barrios.github.io/Horiseon/)
 
 ```
 The title was changed to relate to the website.
