@@ -10,7 +10,7 @@ Comments were added to identify what is going on.
 
 Links should be working. 
 
-CSS was modified to reduce repetivness.
+CSS was modified to reduce repetivness and put in order.
 
 ```
 
